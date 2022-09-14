@@ -1,0 +1,11 @@
+﻿  MsgInject.cpp
+C:\Users\Dell\source\repos\MsgInject\MsgInject\PEHandler.h(164,29): warning C4838: conversion from 'DWORD' to 'char' requires a narrowing conversion
+C:\Users\Dell\source\repos\MsgInject\MsgInject\PEHandler.h(164,46): warning C4838: conversion from 'DWORD' to 'char' requires a narrowing conversion
+C:\Users\Dell\source\repos\MsgInject\MsgInject\PEHandler.h(164,64): warning C4838: conversion from 'DWORD' to 'char' requires a narrowing conversion
+C:\Users\Dell\source\repos\MsgInject\MsgInject\PEHandler.h(164,82): warning C4838: conversion from 'DWORD' to 'char' requires a narrowing conversion
+  Generating code
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MsgInject.vcxproj -> C:\Users\Dell\source\repos\MsgInject\Release\MsgInject.exe
